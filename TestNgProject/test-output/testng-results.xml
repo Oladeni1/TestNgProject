@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67928" started-at="2018-04-04T12:18:55Z" finished-at="2018-04-04T12:20:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67928" started-at="2018-04-04T12:18:55Z" finished-at="2018-04-04T12:20:03Z">
+      <class name="testng.TestngFacebook">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="beforetest" is-config="true" duration-ms="20" started-at="2018-04-04T12:18:55Z" finished-at="2018-04-04T12:18:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="beforemethod" is-config="true" duration-ms="9346" started-at="2018-04-04T12:18:55Z" finished-at="2018-04-04T12:19:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="BirthdayDetailsTest()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="BirthdayDetailsTest" duration-ms="582" started-at="2018-04-04T12:19:04Z" finished-at="2018-04-04T12:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BirthdayDetailsTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="aftermethod" is-config="true" duration-ms="231" started-at="2018-04-04T12:19:05Z" finished-at="2018-04-04T12:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="beforemethod" is-config="true" duration-ms="8470" started-at="2018-04-04T12:19:05Z" finished-at="2018-04-04T12:19:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="CreateBtntest()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="CreateBtntest" duration-ms="300" started-at="2018-04-04T12:19:14Z" finished-at="2018-04-04T12:19:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateBtntest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="aftermethod" is-config="true" duration-ms="2256" started-at="2018-04-04T12:19:14Z" finished-at="2018-04-04T12:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="beforemethod" is-config="true" duration-ms="6944" started-at="2018-04-04T12:19:16Z" finished-at="2018-04-04T12:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="ForgottenAccountTest()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="ForgottenAccountTest" duration-ms="7215" started-at="2018-04-04T12:19:23Z" finished-at="2018-04-04T12:19:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgottenAccountTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="aftermethod" is-config="true" duration-ms="2169" started-at="2018-04-04T12:19:30Z" finished-at="2018-04-04T12:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="beforemethod" is-config="true" duration-ms="7984" started-at="2018-04-04T12:19:32Z" finished-at="2018-04-04T12:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="GenderDetailsTest()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="GenderDetailsTest" duration-ms="199" started-at="2018-04-04T12:19:40Z" finished-at="2018-04-04T12:19:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenderDetailsTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="aftermethod" is-config="true" duration-ms="757" started-at="2018-04-04T12:19:41Z" finished-at="2018-04-04T12:19:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="beforemethod" is-config="true" duration-ms="7146" started-at="2018-04-04T12:19:41Z" finished-at="2018-04-04T12:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="SignUpDetailsTest()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="SignUpDetailsTest" duration-ms="1730" started-at="2018-04-04T12:19:48Z" finished-at="2018-04-04T12:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpDetailsTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="aftermethod" is-config="true" duration-ms="2479" started-at="2018-04-04T12:19:50Z" finished-at="2018-04-04T12:19:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="beforemethod" is-config="true" duration-ms="7213" started-at="2018-04-04T12:19:53Z" finished-at="2018-04-04T12:20:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="TitleVerificationTest()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="TitleVerificationTest" duration-ms="24" started-at="2018-04-04T12:20:00Z" finished-at="2018-04-04T12:20:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleVerificationTest -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="aftermethod" is-config="true" duration-ms="2184" started-at="2018-04-04T12:20:00Z" finished-at="2018-04-04T12:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:testng.TestngFacebook@4b9e13df]" name="aftertest" is-config="true" duration-ms="625" started-at="2018-04-04T12:20:02Z" finished-at="2018-04-04T12:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- testng.TestngFacebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
